@@ -1,0 +1,103 @@
+@media (max-width: 850px) {
+  #mobilenavbarbg {
+    background-color: white;
+  }
+}
+
+#widecarouselheadline01 span {
+  background-color: #0db3d9;
+}
+
+#widecarouseldeck01 span {
+  background-color: #132e41;
+}
+
+#widecarouselheadline02 span {
+  background-color: #0d233b;
+}
+
+#widecarouselheadline03 span {
+  background-color: #4453b2;
+}
+
+#mobilecarouselheadline01 span {
+  background-color: #0db3d9;
+}
+
+#mobilecarouseldeck01 span {
+  background-color: #132e41;
+}
+
+#mobilecarouselheadline02 span {
+  background-color: #0d233b;
+}
+
+#mobilecarouselheadline03 span {
+  background-color: #4453b2;
+}
+
+#widehomesectimg {
+  object-position: 0px 100%;
+}
+
+.mobilefootertextsmall {
+  font-size: 10px;
+  color: dimgrey;
+}
+
+#mobilefootertextcopyright {
+  font-size: 8px;
+  color: darkgrey;
+}
+
+.mobilefootercontainerbgcolor {
+  background-color: gainsboro;
+}
+
+.widefooternavlinksfs {
+  font-size: 13px;
+}
+
+.widefootertextcopyright {
+  font-size: 10px;
+  color: darkgrey;
+}
+
+.widefootercontainerbgcolor {
+  background-color: gainsboro;
+}
+
+.mobilehomesectionheadfs {
+  font-size: 27px;
+}
+
+.mobilehomesection2fs {
+  font-size: 15px;
+}
+
+.homesection2bg {
+  background-color: #e6392a;
+}
+
+.homecardupcomingfs {
+  font-size: 13px;
+}
+
+.widecardupcomingfs {
+  font-size: 12px;
+}
+
+.homesection3bg {
+  background-image: linear-gradient(white, gainsboro);
+}
+
+.widesection3cardbg {
+  background-color: #a9d3ed;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,168 @@
+#mobilenavbarbg {
+    background-color: white;
+}
+  
+#widecarouselheadline01 span {
+    background-color: #0db3d9;
+}
+
+#widecarouseldeck01 span {
+    background-color: #132e41;
+}
+
+#widecarouselheadline02 span {
+    background-color: #0d233b;
+}
+
+#widecarouselheadline03 span {
+    background-color: #4453b2;
+}
+
+#mobilecarouselheadline01 span {
+    background-color: #0db3d9;
+}
+
+#mobilecarouseldeck01 span {
+    background-color: #132e41;
+}
+
+#mobilecarouselheadline02 span {
+    background-color: #0d233b;
+}
+
+#mobilecarouselheadline03 span {
+    background-color: #4453b2;
+}
+
+#widehomesectimg {
+    object-position: 0px 100%;
+}
+
+.mobilefootertextsmall {
+    font-size: 10px;
+    color: dimgrey;
+}
+
+#mobilefootertextcopyright {
+    font-size: 8px;
+    color: darkgrey;
+}
+
+.mobilefootercontainerbgcolor {
+    background-color: gainsboro;
+}
+
+.widefooternavlinksfs {
+    font-size: 13px;
+}
+
+.widefootertextcopyright {
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.widefootercontainerbgcolor {
+    background-color: gainsboro;
+}
+
+.wideblogbodysection {
+    height: 60px;
+    background-color: #b1bec4;
+}
+
+.blogtablebg {
+    background-color: whitesmoke;
+}
+
+.bloglinkcolor {
+    color: black;
+}
+
+.mobileblogbodysection {
+    background-color: #b1bec4;
+}
+
+.mobilesectiondescfontsize {
+    font-size: 10px;
+}
+
+.mobileblogentrydate {
+    font-size: 10px;
+}
+
+.mobileblogsnippetfontsize {
+    font-size: 12px;
+}
+
+.mobiletodosbodysection {
+    background-color: #9febfd;
+}
+
+.widetodosbodysection {
+    height: 60px;
+    background-color: #9febfd;
+}
+
+.widecontactbodysection {
+    height: 60px;
+    background-color: #bdd3eb;
+}
+
+.mobilecontactbodysection {
+    background-color: #bdd3eb;
+}
+
+.mobilecontactcardbg {
+    background-color: #bdd3eb;
+}
+
+.mobilecontactcardfs {
+    font-size: 12px;
+}
+
+.widecontactcardbg {
+    background-color: #bdd3eb;
+}
+
+.wideaboutbodysection {
+    height: 60px;
+    background-color: gold;
+}
+
+.mobileaboutbodysection {
+    background-color: gold;
+}
+
+.mobileaboutintropfs {
+    font-size: 12px;
+}
+
+.mobileaboutbodypfs {
+    font-size: 20px;
+}
+
+.wideaboutintropfs {
+    font-size: 13px;
+}
+
+.wideaboutbodypfs {
+    font-size: 38px;
+}
+
+.wideportfoliobodysection {
+    height: 60px;
+    background-color: #60c8fc;
+}
+
+.mobileportfoliobodysection {
+    background-color: #60c8fc;
+}
+
+.mobileportoquotesfs {
+    font-size: 12px;
+}
+
+.mobileportocaption {
+    font-size: 15px;
+}
+
